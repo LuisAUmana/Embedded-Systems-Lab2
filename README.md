@@ -10,7 +10,7 @@ TM4C123GXL Development Board
 5K Potentiometer (502 9L)
 Breadboard
 Male to Female or Male to Male Jumper Wires
-Schematic of the connection (Will be labelled as Battery Level Indicator Schematic)
+Schematic of the connection (Will be labelled as Battery Level Indicator.png)
 
 Procedure
 In this lab we will be setting an LED to indicate the voltage level of a battery. The voltage level of the battery is simulated by the potentiometer's output. When the voltage is above 2.8 V, the LED should be set to green. When the voltage is below 2.8 V, but above 2.5, the LED should be set to red, and when the voltage is below 2.5 V, the LED should blink red at a rate of approximately 1 second (1 second on, 1 second off).
