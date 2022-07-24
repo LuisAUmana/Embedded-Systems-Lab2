@@ -1,6 +1,6 @@
 # Embedded-Systems-Lab2
 Assignment provided by Embedded Systems (ECGR 3101)
-This project was performed using a board EK-TM4C123GXL and Energia IDE
+This project was performed using a board EK-TM4C123GXL and Code Composer Studio
 Objective
 For this lab we will be developing an application to monitor the voltage level of a battery and provide LED feedback indicating the battery's level. As a battery's charge depletes, the output voltage will begin to drop. Usually an application or device will have a defined range of voltages that the device can operate normally within. Once it has dropped below the estimated threshold, a warning of some kind is produced to alert the user that it is time to recharge. Here, our warning will be produced using the LEDs. The LED will display green if the battery is well within operating voltage, red if low, and blinking red if critically low. The "battery" level will be simulated by using a potentiometer and bread board.
 
